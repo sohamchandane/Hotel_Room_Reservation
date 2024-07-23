@@ -3,7 +3,8 @@ from tkinter import messagebox
 import time
 import random
 
-#Main Window
+#THIS PROJECT ONLY HAS A FRONTEND
+#Main Window for the GUI
 win = Tk()
 win.geometry('1400x800+0+0')
 win.title('Hotel Management System')
